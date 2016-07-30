@@ -1,2 +1,0 @@
-edit test.txt 2
-test1.txt edit 1
